@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Verizon NHG DS';
+  src: url('../fonts/VerizonNHGDS-Italic.eot');
+  src: url('../fonts/VerizonNHGDS-Italic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGDS-Italic.woff2') format('woff2'),
+      url('../fonts/VerizonNHGDS-Italic.woff') format('woff'),
+      url('../fonts/VerizonNHGDS-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG TX';
+  src: url('../fonts/VerizonNHGTX-Bold.eot');
+  src: url('../fonts/VerizonNHGTX-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGTX-Bold.woff2') format('woff2'),
+      url('../fonts/VerizonNHGTX-Bold.woff') format('woff'),
+      url('../fonts/VerizonNHGTX-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG TX';
+  src: url('../fonts/VerizonNHGTX-Regular.eot');
+  src: url('../fonts/VerizonNHGTX-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGTX-Regular.woff2') format('woff2'),
+      url('../fonts/VerizonNHGTX-Regular.woff') format('woff'),
+      url('../fonts/VerizonNHGTX-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG TX';
+  src: url('../fonts/VerizonNHGTX-Italic.eot');
+  src: url('../fonts/VerizonNHGTX-Italic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGTX-Italic.woff2') format('woff2'),
+      url('../fonts/VerizonNHGTX-Italic.woff') format('woff'),
+      url('../fonts/VerizonNHGTX-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG DS';
+  src: url('../fonts/VerizonNHGDS-Bold.eot');
+  src: url('../fonts/VerizonNHGDS-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGDS-Bold.woff2') format('woff2'),
+      url('../fonts/VerizonNHGDS-Bold.woff') format('woff'),
+      url('../fonts/VerizonNHGDS-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG TX';
+  src: url('../fonts/VerizonNHGTX-BoldItalic.eot');
+  src: url('../fonts/VerizonNHGTX-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGTX-BoldItalic.woff2') format('woff2'),
+      url('../fonts/VerizonNHGTX-BoldItalic.woff') format('woff'),
+      url('../fonts/VerizonNHGTX-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG DS';
+  src: url('../fonts/VerizonNHGDS-BoldItalic.eot');
+  src: url('../fonts/VerizonNHGDS-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGDS-BoldItalic.woff2') format('woff2'),
+      url('../fonts/VerizonNHGDS-BoldItalic.woff') format('woff'),
+      url('../fonts/VerizonNHGDS-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Verizon NHG DS';
+  src: url('../fonts/VerizonNHGDS-Regular.eot');
+  src: url('../fonts/VerizonNHGDS-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/VerizonNHGDS-Regular.woff2') format('woff2'),
+      url('../fonts/VerizonNHGDS-Regular.woff') format('woff'),
+      url('../fonts/VerizonNHGDS-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?wx7ivx');
+  src:  url('../fonts/icomoon.eot?wx7ivx#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?wx7ivx') format('truetype'),
+    url('../fonts/icomoon.woff?wx7ivx') format('woff'),
+    url('../fonts/icomoon.svg?wx7ivx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e906";
+}
+.icon-social-linkedin:before {
+  content: "\e905";
+}
+.icon-down-arrow:before {
+  content: "\e900";
+}
+.icon-play:before {
+  content: "\e901";
+}
+.icon-right-arrow:before {
+  content: "\e902";
+}
+.icon-social-facebook:before {
+  content: "\e903";
+}
+.icon-social-instagram:before {
+  content: "\e904";
+}
